@@ -1,6 +1,7 @@
 ### Olá! Eu sou o Caio Bernardo 👋
 
 - 🔭 Atualmente sou estudante de programação
+- 🏫 ETEC Professor Horácio Augusto da Silveira
 - 🌱 Estudando React.Js e Python
 
 <div>
