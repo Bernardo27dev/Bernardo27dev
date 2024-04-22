@@ -2,13 +2,7 @@
 
 - 🔭 Atualmente sou estudante de programação
 - 🏫 ETEC Professor Horácio Augusto da Silveira
-- 🌱 Estudando React.Js e Python
-
-<div>
-  <a href="https://github.com/bernardo27dev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bernardo27dev&theme=midnight-purple&show_icons=true&hide_border=true&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardo27dev&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact"/>
-</div>
+- 🌱 Estudando React.Js e TS
 
 <div>
   <img align="center" alt="CB27-HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="30" width="40"/>
