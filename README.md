@@ -1,8 +1,9 @@
 ### Olá! Eu sou o Caio Bernardo 👋
 
-- 🔭 Atualmente sou estudante de programação
-- 🏫 ETEC Professor Horácio Augusto da Silveira
-- 🌱 Estudando JavaScript e suas tecnologias atuais
+- 🔭 Atualmente sou estudante de programação;
+- 🏫 ETEC Professor Horácio Augusto da Silveira;
+- 🌱 Estudando JavaScript e suas tecnologias atuais;
+- 📖 Aprendendo algo novo sobre o mundo da programação.
 
 <div>
   <img align="center" alt="CB27-HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="30" width="40"/>
