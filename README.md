@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente sou estudante de programação
 - 🏫 ETEC Professor Horácio Augusto da Silveira
-- 🌱 Estudando React.Js e TS
+- 🌱 Estudando JavaScript e suas tecnologias atuais
 
 <div>
   <img align="center" alt="CB27-HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="30" width="40"/>
